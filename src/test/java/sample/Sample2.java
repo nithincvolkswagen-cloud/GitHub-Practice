@@ -6,6 +6,8 @@ public class Sample2 {
 		System.out.println("Pull operation");
 		
 		System.out.println("Second pull Operation");
+		System.out.println("Third pull operation");
+	
 	}
 
 }
