@@ -8,6 +8,7 @@ public class Sample2 {
 		System.out.println("Second pull Operation");
 		System.out.println("Third pull operation");
 	    System.out.println("Practice branch push operation");
+	    System.out.println("Second Branch Push operation");
 	}
 
 }
